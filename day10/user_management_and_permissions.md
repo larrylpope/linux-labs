@@ -89,6 +89,7 @@ sudo usermod -aG research faculty1
 sudo mkdir -p /srv/research/data
 sudo chown :research /srv/research/data
 sudo chmod 2775 /srv/research/data      # SGID ensures group inheritence
+```
 
 ## 7. Verification and Troubleshooting
 - `ls -l` - verify file permissions
