@@ -125,4 +125,4 @@ server {
 | `day32/day32.md` | Modules + VHosts |
 | `day33/day33.md` | Nginx overview |
 | `day34/day34.md` | Reverse proxy config |
-| `day35/how_i_deployed_my_first_web_server.md | Final summary report |
+| `day35/how_i_deployed_my_first_web_server.md` | Final summary report |
