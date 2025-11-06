@@ -117,7 +117,7 @@ server {
     proxy_pass http://127.0.0.1:5000;
   }
 }
-
+```
 ## 9. Repository Artifacts
 | File | Description |
 |------|-------------|
