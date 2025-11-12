@@ -21,10 +21,10 @@ If using a fork:
 git remote add upstream https://github.com/>original-owner>/<repo>.git
 ```
 ## 2. Branching Model
-- *main* -> stable production branch
-- *feature/* -> new functionality
-- *bugfix/* -> patches
-- *hotfix/* -> urgent production fixes
+- **main** -> stable production branch
+- **feature/** -> new functionality
+- **bugfix/** -> patches
+- **hotfix/** -> urgent production fixes
 Create and switch to a new branch:
 ```bash
 git checkout -b feature/my-feature
