@@ -19,7 +19,7 @@ git remote -v
 If using a fork:
 ```bash
 git remote add upstream https://github.com/>original-owner>/<repo>.git
-
+```
 ## 2. Branching Model
 - *main* -> stable production branch
 - *feature/* -> new functionality
